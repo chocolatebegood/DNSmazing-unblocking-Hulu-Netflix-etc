@@ -1998,54 +1998,6 @@
       "enabled":true
     },
     {
-      "name":"www2.netflix.com",
-      "dest_addr":"www2.netflix.com",
-      "modes":[
-        {
-          "port":80,
-          "mode":"http"
-        },
-        {
-          "port":443,
-          "mode":"https"
-        }
-      ],
-      "catchall":true,
-      "enabled":true
-    },
-    {
-      "name":"cbp-eu.nccp.netflix.com",
-      "dest_addr":"cbp-eu.nccp.netflix.com",
-      "modes":[
-        {
-          "port":80,
-          "mode":"http"
-        },
-        {
-          "port":443,
-          "mode":"https"
-        }
-      ],
-      "catchall":true,
-      "enabled":true
-    },
-    {
-      "name":"api-eu.netflix.com",
-      "dest_addr":"api-eu.netflix.com",
-      "modes":[
-        {
-          "port":80,
-          "mode":"http"
-        },
-        {
-          "port":443,
-          "mode":"https"
-        }
-      ],
-      "catchall":true,
-      "enabled":true
-    },
-    {
       "name":"www.bing.com",
       "dest_addr":"www.bing.com",
       "modes":[
