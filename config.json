@@ -1954,10 +1954,6 @@
       "dest_addr":"atv-ps.amazon.com",
       "modes":[
         {
-          "port":80,
-          "mode":"http"
-        },
-        {
           "port":443,
           "mode":"https"
         }
@@ -1970,10 +1966,6 @@
       "dest_addr":"fals.atv-ps.amazon.com",
       "modes":[
         {
-          "port":80,
-          "mode":"http"
-        },
-        {
           "port":443,
           "mode":"https"
         }
@@ -1985,10 +1977,6 @@
       "name":"atv-ext.amazon.com",
       "dest_addr":"atv-ext.amazon.com",
       "modes":[
-        {
-          "port":80,
-          "mode":"http"
-        },
         {
           "port":443,
           "mode":"https"
