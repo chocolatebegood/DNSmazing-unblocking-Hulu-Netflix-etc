@@ -2016,6 +2016,22 @@
       ],
       "catchall":true,
       "enabled":true
+    },
+    {
+      "name":"slingtv.com",
+      "dest_addr":"slingtv.com",
+      "modes":[
+        {
+          "port":80,
+          "mode":"http"
+        },
+        {
+          "port":443,
+          "mode":"https"
+        }
+      ],
+      "catchall":true,
+      "enabled":true
     }
   ]
 }
